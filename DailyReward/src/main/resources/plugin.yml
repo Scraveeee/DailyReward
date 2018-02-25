@@ -1,0 +1,7 @@
+name: Daily-Reward
+author: Scraveeee
+version: 1.0
+
+main: de.scraveeee.dailyreward.Main
+commands:
+  setvillager:
